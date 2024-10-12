@@ -1,0 +1,69 @@
+name: mental_health
+description: "Mindful App : Dedicated to Medical Facilities"
+publish_to: 'none'
+version: 2.1.2
+environment:
+  sdk: ^3.5.3
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts:
+  rename_app: ^1.6.1
+  flutter_bloc: ^8.1.6
+  audio_video_progress_bar:
+  http: ^1.2.2
+  dio: ^5.7.0
+  just_audio: ^0.9.40
+  get_it: ^8.0.0
+  flutter_onboarding_slider: ^1.0.11
+  flutter_svg: ^2.0.10+1
+  percent_indicator: ^4.2.3
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  dartz: ^0.10.1
+  cloud_firestore: ^5.4.3
+  tflite_flutter:
+  camera:
+  image: ^3.1.0
+  google_generative_ai:
+  intl:
+  google_mlkit_face_detection:
+  image_picker:
+  lottie:
+  google_sign_in:
+  hive:
+  hive_flutter:
+  syncfusion_flutter_charts:
+  url_launcher:
+  video_player:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.11.0
+  build_runner:
+  hive_generator:
+  font_awesome_flutter:
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "screenshots/logo.png"
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/essentials/
+    - screenshots/
+  fonts:
+    - family: t1
+      fonts:
+        - asset: assets/fonts/epilogue.ttf
+
+    - family: t2
+      fonts:
+        - asset: assets/fonts/proxima.otf
+
+    - family: t3
+      fonts:
+        - asset: assets/fonts/mont.ttf
