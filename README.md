@@ -1,10 +1,6 @@
-![Mindful-App](https://socialify.git.ci/ARYPROGRAMMER/Mindful-App/image?description=1&descriptionEditable=Mindful%20is%20a%20mental%20wellness%20app%20designed%20to%20support%20users%20in%20managing%20stress%20and%20anxiety&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&theme=Dark)
 
 <p align="center">
-    <a href="https://github.com/ARYPROGRAMMER/Mindful-App/actions">
-        <img src="https://github.com/travisjeffery/timecop/workflows/CI/badge.svg" alt="Build Status"/>
-    </a>
-    <img src="https://img.shields.io/badge/version-2.1.2-green" alt="Version"/>
+    <img src="https://img.shields.io/badge/version-1.0.0-green" alt="Version"/>
 </p>
 
 <p align="center">
@@ -12,12 +8,11 @@
     <img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="License"/>
 </p>
 
-
 **AI USED** : LLAMA-8B-8192, FACE EMOTION RECOGNITION MODEL, GEMINI/ANTHROPIC/MISTRAL SUPPORTED (API_KEY REQUIRED)
 
 **APP STATUS** : ALL CORE FUNCTIONALITIES WORKING (Deployed NodeJs & Postgresql on Render)
 
-## What's New in v2.1.2 (**Stable Release with Redis Phase 3 Integration**)
+## What's New in v1.0.0 (**Stable Release with Redis Phase 3 Integration**)
 
             - **Improved AI Chat Functionality**
             - **Redis DS Change - HashMaps**
@@ -32,11 +27,9 @@
             
             ### Issues are being Resolved - Redis Full-Integration Phase 3
 
-[DEMO LINK OF WORKING](https://vimeo.com/1016496824?share=copy)
+[DEMO LINK OF WORKING](https://vimeo.com/1018872545?share=copy)
 
 [PRE-PRODUCTION INSIDERS](https://vimeo.com/1013864504)
-
-[Blog Post on dev.to](https://dev.to/aryprogrammer/building-mindful-a-mental-wellness-app-with-nodejs-ai-and-clean-architecture-3n9d)
 
 # Mindful
 
@@ -101,10 +94,6 @@ The *Mindful* app employs a clean architecture pattern, allowing for separation 
 To run *Mindful* locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ARYPROGRAMMER/mindful.git
-   cd server/mental-health-api/
-   ```
 
 2. **Install dependencies**:
    ```bash
@@ -219,11 +208,6 @@ We welcome contributions to improve *Mindful*! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
-
-## Contact
-For questions or feedback, please reach out to me at:
-- **Email id**: [arya.2023ug1104@iiitranchi.ac.in](mailto:arya.2023ug1104@iiitranchi.ac.in)
-- **GitHub**: [ARYPROGRAMMER](https://github.com/ARYPROGRAMMER)
 
 ---
 *Mindful* - I invite you to join a community focused on mental health and well-being. Together, we can create a positive impact, one mindful moment at a time. PRs ARE APPRECIATED
